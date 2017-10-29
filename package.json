@@ -1,0 +1,27 @@
+{
+  "name": "mulan-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mulan": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfcdxg/mulan-cli.git"
+  },
+  "author": "zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfcdxg/mulan-cli/issues"
+  },
+  "homepage": "https://github.com/xfcdxg/mulan-cli#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "shelljs": "^0.7.8",
+    "yargs": "^10.0.3"
+  }
+}
