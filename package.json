@@ -19,7 +19,7 @@
     "url": "https://github.com/xfcdxg/mulan-cli/issues"
   },
   "homepage": "https://github.com/xfcdxg/mulan-cli#readme",
-  "devDependencies": {
+  "dependencies": {
     "path": "^0.12.7",
     "shelljs": "^0.7.8",
     "yargs": "^10.0.3"
